@@ -1,0 +1,11 @@
+index.html
+index.tsx
+App.tsx
+türler.ts
+metadata.json
+hizmetler/geminiService.ts 
+bileşenler/Navbar.tsx
+bileşenler/Kahraman.tsx
+bileşenler/Hizmetler.tsx
+bileşenler/Filo.tsx
+bileşenler/AdGenerator.tsx
